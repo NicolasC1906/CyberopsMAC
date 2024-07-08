@@ -14,4 +14,6 @@ Este script de Python te permite cambiar la dirección MAC de las interfaces de 
 
    ```bash
    pip install netifaces
-3. **Ejecutar**: sudo python3 macAddress.py
+3. **Ejecutar**: Se recomienda usar el siguiende comando
+     ```bash
+   sudo python3 macAddress.py
